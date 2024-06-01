@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Arial,  sans-serif;
     margin: 0;
     padding: 0;
     background-color: white;
@@ -30,7 +30,7 @@ main {
 button {
     padding: 0.5em 1em;
     font-size: 1em;
-    background-color: blue;
+    background-color:blue;
     color: white;
     border: none;
     cursor: pointer;
